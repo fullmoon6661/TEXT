@@ -20,6 +20,9 @@ Similar to PDA, drawdown equipment from Swedish Armed Forces and sending em imme
 ### Services via the Swedish Defence Research Agency (FOI) ($1.1 million)
 "The FOI will provide support relating to CBRN-analysis and automatic detection of vehicles by drones within the support package framework."
 
+### Innovation close to the battlefield (unspecified)
+"allocated to identifying and utilising technical innovations that require further funding to be completed and put into production."
+
 ### Export credit guarantees ($50 million)
 Bailout money for Swedish defense companies that do business with UA.
 
