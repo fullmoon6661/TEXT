@@ -2,8 +2,8 @@
 Similar to USAI, Sweden to buy equipment from Swedish, Nordic, and European defense industries.
 
 ### Financial donations ($500 million)
-I think this is to support UA defense production.
-"The support package includes financial donations to various funds and other multilateral initiatives that procure materiel and equipment for donation to Ukraine."
+I think this is to support UA defense production and collab with Denmark, and
+"includes financial donations to various funds and other multilateral initiatives that procure materiel and equipment for donation to Ukraine."
 
 ### Donation of material from the Swedish Armed Forces ($50 million)
 Similar to PDA, drawdown equipment from Swedish Armed Forces and sending em immediately.
